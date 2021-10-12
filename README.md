@@ -1,7 +1,10 @@
+# This project has been renamed and moved to [AutoFaker](https://github.com/christianhelle/autofaker)
+
+
 [![build](https://github.com/christianhelle/pyautodata/actions/workflows/build.yml/badge.svg)](https://github.com/christianhelle/pyautodata/actions/workflows/build.yml)
 [![PyPI](https://img.shields.io/pypi/dm/pyautodata)](https://pypi.org/project/pyautodata)
 
-# PyAutodata
+## PyAutodata
 
 A Python library designed to minimize the setup/arrange phase of your unit tests by removing the need to manually 
 write code to create anonymous variables as part of a test cases setup/arrange phase. 
