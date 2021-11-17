@@ -1,4 +1,0 @@
-pytest
-pyspark
-pandas
-faker
